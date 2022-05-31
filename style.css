@@ -1,9 +1,11 @@
 body
 {
-background-color:blue;
+background-color:lighhtblue;
+align:center;
 }
 h1
 {
 text-align:center;
 font-family:verdana;
+color:pink;
 }
